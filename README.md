@@ -21,7 +21,7 @@ I'm an OSINT journalist. I track conflict, surveillance and information operatio
 
 | Role | Where | When |
 |---|---|---|
-| Chief Investigative Officer | OSINT JOURNO | Jan 2025 to present |
+| Chief Investigative Officer | [OSINT JOURNO](https://github.com/OSINT-JOURNO) | Jan 2025 to present |
 | Contributing OSINT Reporter | NWS Facts | Mar 2026 to present |
 | Network Member | Centre for Information Resilience | Oct 2023 to Mar 2024 |
 | OSINT Reporter | India Today | Nov 2022 to Nov 2023 |
