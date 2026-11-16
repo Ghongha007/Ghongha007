@@ -56,6 +56,19 @@ I'm Dipti Yadav, an OSINT journalist. I track conflict, surveillance and informa
 
 **Tools:** Maltego · Overpass Turbo · Sentinel Hub EO Browser · Google Earth Pro · Global Fishing Watch · Equasis · IMO GISIS · ADS-B Exchange · Gephi · R and Three.js for maps and 3D scenes
 
+## AI in my workflow
+
+I use AI as a research and production assistant, with every output checked by a person before it is published.
+
+**Agentic AI workflows** · **prompt engineering** · **human-in-the-loop verification** · **AI output fact-checking** · **AI-assisted data analysis** · **AI-assisted video production** · **MCP servers and agent skills** · **AI tool evaluation** · **responsible AI use**
+
+- **Agentic workflows:** I direct AI coding agents (Claude Code) through multi-step investigations and builds: research, drafting, an independent fact-check pass, then production. The tools in the table above were built this way, under my direction and review.
+- **Verification of AI output:** every script goes through a claim-by-claim check (OK, fix, soften, unverified) with sources and attribution before it is recorded. Contested facts are attributed, and allegations stay allegations.
+- **Data and visuals:** AI-assisted analysis of open datasets (flood records, network data, takedown reports) and programmatic maps, charts and 3D scenes for explainers.
+- **Production:** AI text-to-speech narration with a pronunciation pass for non-English names, and code-generated graphics, for the OSINT JOURNO video series.
+- **Tool evaluation:** I maintain [ai-for-osint](https://github.com/Ghongha007/ai-for-osint), which records where each AI tool runs and what is known about how it fails.
+- **Ground rules:** no source material in cloud tools without a decision on the risk, no AI detector score or model guess reported as proof, and no AI used to identify private individuals.
+
 ## Qualifications
 
 - **MA in International Relations, Security, and Strategy (MA-IRSS)**, O.P. Jindal Global University (JGU), Oct 2026 to Sept 2027 (in progress)
