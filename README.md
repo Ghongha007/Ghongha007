@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="assets/header.svg" width="100%" alt="OSINT JOURNO: independent open-source investigations. Geolocation, satellite imagery, maritime and aviation tracking, sanctions evasion.">
+  <img src="assets/header.svg" width="100%" alt="Dipti Yadav: OSINT journalist and investigator. Geolocation, satellite imagery, maritime and aviation tracking, sanctions evasion.">
 </p>
 
-I'm an OSINT journalist. I track conflict, surveillance and information operations through open sources and satellite imagery, and I care about method as much as findings: the work should be documented so that a reader can follow the same trail and arrive at the same place.
+I'm Dipti Yadav, an OSINT journalist. I track conflict, surveillance and information operations through open sources and satellite imagery, and I care about method as much as findings: the work should be documented so that a reader can follow the same trail and arrive at the same place.
 
 **Beats:** China and Xinjiang · defence and military logistics · maritime and shadow fleets · sanctions evasion · human rights · disinformation and influence operations · privacy and data protection
 

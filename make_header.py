@@ -33,8 +33,8 @@ BG, GRID, TEAL, AMBER, TEXT, DIM = "#0b1016", "#16202b", "#2dd4bf", "#fbbf24", "
 
 def f(x): return f"{x:.4f}".rstrip("0").rstrip(".")
 o = [f'<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 {W} {H}" width="{W}" height="{H}" role="img" '
-     f'aria-label="OSINT JOURNO: independent open-source investigations">',
-     '<title>OSINT JOURNO: independent open-source investigations</title>',
+     f'aria-label="Dipti Yadav: OSINT journalist and investigator">',
+     '<title>Dipti Yadav: OSINT journalist and investigator</title>',
      f'''<defs>
 <clipPath id="card"><rect width="{W}" height="{H}" rx="18"/></clipPath>
 <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="{GRID}" stroke-width="1"/></pattern>
@@ -73,8 +73,8 @@ o.append(f'<circle cx="{CX}" cy="{CY}" r="3" fill="{TEAL}"/>')
 def T(text, x, y, size, fill, weight=400, spacing=0.0, extra=""):
     d, w = outline(text, x, y, size, weight, spacing)
     return f'<path d="{d}" fill="{fill}"{extra}/>', w
-o.append(T("// INDEPENDENT OPEN-SOURCE INVESTIGATIONS", TX - 32, 78, 17, TEAL, 500, 1.6)[0])
-o.append(T("OSINT JOURNO", TX - 34, 144, 62, TEXT, 800, 4)[0])
+o.append(T("// OSINT JOURNALIST AND INVESTIGATOR", TX - 32, 78, 17, TEAL, 500, 1.6)[0])
+o.append(T("DIPTI YADAV", TX - 34, 144, 62, TEXT, 800, 4)[0])
 o.append(T(">", TX - 32, TY, 22, AMBER, 700)[0])
 total = SLOT * len(LINES)
 for i, line in enumerate(LINES):
