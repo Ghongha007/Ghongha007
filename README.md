@@ -1,16 +1,67 @@
-### Hi there 👋
+<p align="center">
+  <img src="assets/header.svg" width="100%" alt="OSINT JOURNO: independent open-source investigations. Geolocation, satellite imagery, maritime and aviation tracking, sanctions evasion.">
+</p>
 
-<!--
-**Ghongha007/Ghongha007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an OSINT journalist. I track conflict, surveillance and information operations through open sources and satellite imagery, and I care about method as much as findings: the work should be documented so that a reader can follow the same trail and arrive at the same place.
 
-Here are some ideas to get you started:
+**Beats:** China and Xinjiang · defence and military logistics · maritime and shadow fleets · sanctions evasion · human rights · disinformation and influence operations · privacy and data protection
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Open tools and lists
+
+| Repo | What it is |
+|---|---|
+| [india-osint](https://github.com/Ghongha007/india-osint) | 179 public records and open-data sources for investigating stories in India, every link checked and dated |
+| [ai-for-osint](https://github.com/Ghongha007/ai-for-osint) | AI tools for investigators, with where each one runs and what is known about how it fails |
+| [chat2net](https://github.com/Ghongha007/chat2net) | Turn a Telegram, X, YouTube or CSV export into a Gephi network, from the command line |
+| [osint-skills](https://github.com/Ghongha007/osint-skills) | Agent skills for verification: geolocation, chronolocation, image checks, evidence archiving, claim attribution |
+| [verify-mcp](https://github.com/Ghongha007/verify-mcp) | An MCP server with keyless, read-only lookups: page history, domain age, sun and shadow maths |
+| [india-takedowns-2026](https://github.com/Ghongha007/india-takedowns-2026) | Dataset of publicly reported takedowns of political posts in India in 2026, each linked to its source |
+
+## Experience
+
+| Role | Where | When |
+|---|---|---|
+| Chief Investigative Officer | OSINT JOURNO | Jan 2025 to present |
+| Contributing OSINT Reporter | NWS Facts | Mar 2026 to present |
+| Network Member | Centre for Information Resilience | Oct 2023 to Mar 2024 |
+| OSINT Reporter | India Today | Nov 2022 to Nov 2023 |
+| OSINT Consultant | India Today | Aug 2022 to Nov 2022 |
+| Volunteer Lead Editor | Hacktoria | May 2022 to Jul 2022 |
+
+- **80+ bylined stories** in 15 months at India Today across the World, India and Science desks, built on geolocation, satellite imagery, maritime and aviation tracking and digital verification.
+- Tracked Chinese survey and research vessels (Yuan Wang 5, Yuan Wang 6, Shi Yan 6) using open maritime data.
+- Exposed a network of fake YouTube accounts pushing state propaganda about Uyghurs.
+- Traced a shadow-fleet tanker through salvors, paper companies and flag-hopping to a shell firm moving sanctioned crude.
+
+## Selected investigations
+
+- [A Drone Strike Exposes Russian Shadow Fleet's Covert Network](https://www.nwsfacts.com/osint/shadow-fleet-in-the-crosshairs-a-drone-strike-exposes-a-global-sanctions-evasion-network) · NWS Facts
+- [Sunlight under sanctions: the foreign network powering Iran's solar rise](https://www.nwsfacts.com/osint/sunlight-under-sanctions-the-foreign-network-powering-irans-solar-rise) · NWS Facts
+- [Wings of the Junta: satellite clues to Myanmar's military backers](https://medium.com/osint-journo/wings-of-the-junta-satellite-clues-to-myanmars-military-backers-c526998a5444) · OSINT JOURNO
+- [RealCraft portal exposes sensitive fishermen data](https://medium.com/osint-journo/realcraft-portal-exposes-sensitive-fishermen-data-raising-major-privacy-and-security-alarms-55a81954d3d6) · OSINT JOURNO
+- [Maritime OSINT: In Detail (Part II)](https://medium.com/osint-journo/maritime-osint-in-detail-part-ii-6b6c1a420129) · OSINT JOURNO. Part I is cited in [GIJN's ship-tracking resources](https://gijn.org/resource/tracking-ships-at-sea/)
+- [Chinese propaganda videos about Uyghurs on YouTube](https://www.indiatoday.in/amp/world/story/china-propaganda-videos-uyghurs-youtube-2005919-2022-09-28) · India Today
+- [Sea assaults in the Israel–Hamas war](https://www.indiatoday.in/world/story/sea-assaults-israel-hamas-war-us-russia-china-support-warfare-2457977-2023-11-04) · India Today
+
+## Talks and recognition
+
+- Speaker, "Chinese Social Media Intelligence", SANS OSINT Summit 2025
+- Chairman's Award for Team Excellence, India Today, 2023
+- Maritime OSINT explainer cited in GIJN's ship-tracking resources
+- Work featured in Authentic8's OSINT News Roundup
+
+## Methods and tools
+
+**Investigation:** geolocation · chronolocation · satellite and SAR imagery analysis · video and image verification · maritime tracking (AIS) · aviation tracking · corporate and registry tracing · network and influence mapping · Chinese social media intelligence
+
+**Tools:** Maltego · Overpass Turbo · Sentinel Hub EO Browser · Google Earth Pro · Global Fishing Watch · Equasis · IMO GISIS · ADS-B Exchange · Gephi · R and Three.js for maps and 3D scenes
+
+## Qualifications
+
+- **BSc, Film Production and Mass Communication**, SHUATS, 2019 to 2022, First Division. Dissertation: *The Evolution of Online Investigative Journalism and Its Effects on Journalism as a Whole*
+- **Certificate of Proficiency in Tibetan**, Nalanda University, 2024, Grade A
+- **DFRLab 360 / Digital Sherlocks** scholar, Spring 2022 cohort
+- **Courses:** all 10 Digital Investigations courses (AFP Fact Check) · Reuters Digital Journalism Course · Open-Source Intelligence Course (Basel Institute on Governance) · Trace Labs OSINT Foundations (OSINT Combine)
+- **Languages:** Hindi (native) · English (professional) · Tibetan (certificate) · Korean (basic) · reads Cyrillic and Tibetan Uchen scripts
+
+<sub>The banner is a hand-written animated SVG with no scripts or trackers. It is generated by <a href="make_header.py">make_header.py</a>.</sub>
