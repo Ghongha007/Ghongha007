@@ -21,7 +21,7 @@ I'm Dipti Yadav, an OSINT journalist. I track conflict, surveillance and informa
 
 | Role | Where | When |
 |---|---|---|
-| Chief Investigative Officer | [OSINT JOURNO](https://github.com/OSINT-JOURNO) | Jan 2025 to present |
+| Chief Investigation Officer | [OSINT JOURNO](https://github.com/OSINT-JOURNO) | Jan 2025 to present |
 | Contributing OSINT Reporter | NWS Facts | Mar 2026 to present |
 | Network Member | Centre for Information Resilience | Oct 2023 to Mar 2024 |
 | OSINT Reporter | India Today | Nov 2022 to Nov 2023 |
@@ -58,6 +58,7 @@ I'm Dipti Yadav, an OSINT journalist. I track conflict, surveillance and informa
 
 ## Qualifications
 
+- **MA in International Relations, Security, and Strategy (MA-IRSS)**, O.P. Jindal Global University (JGU), Oct 2026 to Sept 2027 (in progress)
 - **BSc, Film Production and Mass Communication**, SHUATS, 2019 to 2022, First Division. Dissertation: *The Evolution of Online Investigative Journalism and Its Effects on Journalism as a Whole*
 - **Certificate of Proficiency in Tibetan**, Nalanda University, 2024, Grade A
 - **DFRLab 360 / Digital Sherlocks** scholar, Spring 2022 cohort
