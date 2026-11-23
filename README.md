@@ -13,6 +13,7 @@ I'm Dipti Yadav, an OSINT journalist. I track conflict, surveillance and informa
 | [india-osint](https://github.com/Ghongha007/india-osint) | 179 public records and open-data sources for investigating stories in India, every link checked and dated |
 | [russia-osint](https://github.com/Ghongha007/russia-osint) | 167 public records, sanctions lists and open-data sources for investigating stories about Russia, every link checked and dated |
 | [china-osint](https://github.com/Ghongha007/china-osint) | 170 public records, research databases and open-data sources for investigating stories about China, every link checked and dated |
+| [usa-osint](https://github.com/Ghongha007/usa-osint) | 180 public records, campaign-finance, spending and open-data sources for investigating stories about the United States, every link checked and dated |
 | [ai-for-osint](https://github.com/Ghongha007/ai-for-osint) | AI tools for investigators, with where each one runs and what is known about how it fails |
 | [chat2net](https://github.com/Ghongha007/chat2net) | Turn a Telegram, X, YouTube or CSV export into a Gephi network, from the command line |
 | [osint-skills](https://github.com/Ghongha007/osint-skills) | Agent skills for verification: geolocation, chronolocation, image checks, evidence archiving, claim attribution |
