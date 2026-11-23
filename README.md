@@ -26,7 +26,7 @@ I'm Dipti Yadav, an OSINT journalist. I track conflict, surveillance and informa
 | Role | Where | When |
 |---|---|---|
 | Chief Investigation Officer | [OSINT JOURNO](https://github.com/OSINT-JOURNO) | Jan 2025 to present |
-| Contributing OSINT Reporter | NWS Facts | Mar 2026 to present |
+| Contributing OSINT Reporter | NWS Facts | Mar 2026 to Jul 2026 |
 | Network Member | Centre for Information Resilience | Oct 2023 to Mar 2024 |
 | OSINT Reporter | India Today | Nov 2022 to Nov 2023 |
 | OSINT Consultant | India Today | Aug 2022 to Nov 2022 |
