@@ -24,6 +24,7 @@ I'm Dipti Yadav, an OSINT journalist. I track conflict, surveillance and informa
 | [osint-visuals](https://github.com/Ghongha007/osint-visuals) | Agent skills for evidence graphics: animated ship and flight tracks that flag signal gaps, shadow diagrams that test a claimed time, 3D scene dioramas, locator maps, satellite before/after sliders and scroll stories |
 | [aitrace](https://github.com/Ghongha007/aitrace) | Check an image or video for traces of AI generation: Content Credentials (C2PA), generator settings and declared source type |
 | [india-takedowns-2026](https://github.com/Ghongha007/india-takedowns-2026) | Dataset of publicly reported takedowns of political posts in India in 2026, each linked to its source |
+| [china-state-vessels](https://github.com/OSINT-JOURNO/china-state-vessels) | Open, sourced list of 85 Chinese state-linked vessels: research and survey ships, PLA ships, coast guard cutters and boats named sources identify as maritime militia, each fact-checked (published by OSINT JOURNO) |
 
 ## Experience
 
