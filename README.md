@@ -6,6 +6,18 @@ I'm Dipti Yadav, an OSINT journalist. I track conflict, surveillance and informa
 
 **Beats:** China and Xinjiang · defence and military logistics · maritime and shadow fleets · sanctions evasion · human rights · disinformation and influence operations · privacy and data protection
 
+## OSINT Expo
+
+<p align="center">
+  <a href="https://expo.osintjourno.com"><img src="https://raw.githubusercontent.com/OSINT-JOURNO/osint-expo/main/images/arrival-gate.jpg" width="32%" alt="The OSINT Expo entrance gate at night, with the host"></a>
+  <a href="https://expo.osintjourno.com"><img src="https://raw.githubusercontent.com/OSINT-JOURNO/osint-expo/main/images/lesson-geolocation.jpg" width="32%" alt="The Geolocation lesson panel showing a real case with its source"></a>
+  <a href="https://expo.osintjourno.com"><img src="https://raw.githubusercontent.com/OSINT-JOURNO/osint-expo/main/images/main-hall.jpg" width="32%" alt="Red seats facing the big screen in the Main Hall, showing a challenge"></a>
+</p>
+
+A free 3D expo I built for OSINT JOURNO: you walk around it in your browser and learn open-source investigation at ten
+stalls, with hands-on labs, a case to solve, CTFs and live talks. **[Play it](https://expo.osintjourno.com)** ·
+[see what's inside](https://github.com/OSINT-JOURNO/osint-expo)
+
 ## Open tools and lists
 
 | Repo | What it is |
