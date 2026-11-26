@@ -20,6 +20,8 @@ stalls, with hands-on labs, a case to solve, CTFs and live talks. **[Play it](ht
 
 ## Open tools and lists
 
+Try [aitrace](https://huggingface.co/spaces/Ghongha007/aitrace) and [Groundline](https://huggingface.co/spaces/Ghongha007/groundline) in your browser, and browse the datasets, on [Hugging Face](https://huggingface.co/collections/Ghongha007/osint-tools-for-journalists-6b07f92c5a0de1314ad9726e).
+
 | Repo | What it is |
 |---|---|
 | [india-osint](https://github.com/Ghongha007/india-osint) | 179 public records and open-data sources for investigating stories in India, every link checked and dated |
