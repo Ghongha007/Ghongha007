@@ -20,7 +20,7 @@ stalls, with hands-on labs, a case to solve, CTFs and live talks. **[Play it](ht
 
 ## Open tools and lists
 
-Try [aitrace](https://huggingface.co/spaces/Ghongha007/aitrace), [Groundline](https://huggingface.co/spaces/Ghongha007/groundline) and [id-decoder](https://huggingface.co/spaces/Ghongha007/id-decoder) in your browser, and browse the datasets, on [Hugging Face](https://huggingface.co/collections/Ghongha007/osint-tools-for-journalists-6b07f92c5a0de1314ad9726e).
+Try [aitrace](https://huggingface.co/spaces/Ghongha007/aitrace), [Groundline](https://huggingface.co/spaces/Ghongha007/groundline), [id-decoder](https://huggingface.co/spaces/Ghongha007/id-decoder) and [video-keyframes](https://huggingface.co/spaces/Ghongha007/video-keyframes) in your browser, and browse the datasets, on [Hugging Face](https://huggingface.co/collections/Ghongha007/osint-tools-for-journalists-6b07f92c5a0de1314ad9726e).
 
 | Repo | What it is |
 |---|---|
@@ -36,6 +36,7 @@ Try [aitrace](https://huggingface.co/spaces/Ghongha007/aitrace), [Groundline](ht
 | [verify-mcp](https://github.com/Ghongha007/verify-mcp) | An MCP server with keyless, read-only lookups: page history, domain age, sun and shadow maths |
 | [groundline](https://github.com/Ghongha007/groundline) | Check every sentence of a draft or AI summary against its source documents: changed numbers, invented quotes, overstated claims |
 | [id-decoder](https://github.com/Ghongha007/id-decoder) | Decode a ship or aircraft identifier (MMSI, IMO, call sign, ICAO hex, registration, squawk) with the official source for each answer |
+| [video-keyframes](https://github.com/Ghongha007/video-keyframes) | Pull the sharpest frame from each scene of a video, with timestamps, ready for reverse image search |
 | [osint-visuals](https://github.com/Ghongha007/osint-visuals) | Agent skills for evidence graphics: animated ship and flight tracks that flag signal gaps, shadow diagrams that test a claimed time, 3D scene dioramas, locator maps, satellite before/after sliders, scroll stories and relationship networks where every link opens the records behind it |
 | [aitrace](https://github.com/Ghongha007/aitrace) | Check an image or video for traces of AI generation: Content Credentials (C2PA), generator settings and declared source type |
 | [india-takedowns-2026](https://github.com/Ghongha007/india-takedowns-2026) | Dataset of publicly reported takedowns of political posts in India in 2026, each linked to its source |
